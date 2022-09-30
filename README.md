@@ -4,6 +4,6 @@
 [![CSM](https://img.shields.io/badge/-Certified%20ScrumMaster-%23ffffff?style=flat-square&logo=Scrum%20Alliance&link=https://bcert.me/bc/html/show-badge.html?b=wluantbi)](https://bcert.me/bc/html/show-badge.html?b=wluantbi)
 
 <div align="center">
-  <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=maakun12&count_private=true&show_icons=true&theme=onedark" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maakun12&layout=compact&langs_count=8&theme=onedark" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=maakun12&count_private=true&show_icons=true&theme=onedark" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maakun12&layout=compact&hide=javascript,html,css,scss,ruby,less,shell,php,handlebars,objective-c,makefile,dockerfile&langs_count=8&theme=onedark" />
 </div>
