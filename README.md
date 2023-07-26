@@ -5,7 +5,6 @@
 
 ---
 <div>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=maakun12&count_private=true&show_icons=true&theme=onedark" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maakun12&layout=compact&hide=html,css,scss&langs_count=8&theme=onedark" />
 </div>
 
