@@ -1,11 +1,19 @@
 ### Hi there 👋
 
-[![AWSSAA](https://img.shields.io/badge/-AWS%20Certified%20Solution%20Architect%20--%20Associate-%23232F3E?style=flat-square&logo=amazon-aws&link=https://www.credly.com/badges/b3318fd9-b881-4a1a-a56d-a49951fbe6b8/public_url)](https://www.credly.com/badges/b3318fd9-b881-4a1a-a56d-a49951fbe6b8/public_url)
 [![CSM](https://img.shields.io/badge/-Certified%20ScrumMaster-%23ffffff?style=flat-square&logo=Scrum%20Alliance&link=https://bcert.me/bc/html/show-badge.html?b=wluantbi)](https://bcert.me/bc/html/show-badge.html?b=wluantbi)
 
+Software Engineer
+
+Go / PHP / React / TypeScript / AWS
+
 ---
-<div>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maakun12&layout=compact&hide=html,css,scss&langs_count=8&theme=onedark" />
-</div>
+
+### 🛠 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=go,php,react,ts,aws,docker,terraform,mysql,postgres,redis,githubactions,linux)](https://skillicons.dev)
+
+---
+
+### 📊 Activity
+[![](https://github-readme-activity-graph.vercel.app/graph?username=maakun12&theme=high-contrast&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
